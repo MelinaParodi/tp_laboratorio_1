@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1535936619 source:/home/martin/Documents/C/TP1/calculadora.c
+
+1535936848 source:/home/martin/Documents/C/TP1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1535934614 /home/martin/Documents/C/TP1/calculadora.h
+
+1536173665 source:c:\users\usuario\dropbox (parodi group)\desktop\melina\melina facultad\tp\calculadora.c
+
+1536172995 source:c:\users\usuario\dropbox (parodi group)\desktop\melina\melina facultad\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1536172552 c:\users\usuario\dropbox (parodi group)\desktop\melina\melina facultad\tp\calculadora.h
+
+1536174334 source:c:\users\usuario\dropbox (parodi group)\desktop\tp git\tp_laboratorio_1\calculadora.c
+
+1536183320 source:c:\users\usuario\dropbox (parodi group)\desktop\tp git\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1536175061 c:\users\usuario\dropbox (parodi group)\desktop\tp git\tp_laboratorio_1\calculadora.h
+
